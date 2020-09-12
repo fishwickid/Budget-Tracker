@@ -4,9 +4,9 @@ Track your spending, log your income and keep a close eye on your budget with th
 
 You will not only be able to easily add daily spending into the app, with the visual chart you can easily see how much you're spending comparitible day after day. 
 
-## Build With
+## Built With
 
-This app is build utilising the following technologies.
+This app is built utilising the following technologies.
 
 - Node.JS
 - MongoDB database
